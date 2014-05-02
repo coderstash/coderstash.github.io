@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://coderstash.github.io/sitemap.xml 
